@@ -339,7 +339,7 @@ a:hover {
 }
 .advantages-item-clock::before {
   content: " ";
-  display: flex;
+  display: inline-block;
   width: 270px;
   height: 120px;
   margin-bottom: 30px;
@@ -349,7 +349,7 @@ a:hover {
 }
 .advantages-item-computer::before {
   content: " ";
-  display: flex;
+  display: inline-block;
   width: 270px;
   height: 120px;
   margin-bottom: 30px;
@@ -359,7 +359,7 @@ a:hover {
 }
 .advantages-item-astronaut::before {
   content: " ";
-  display: flex;
+  display: inline-block;
   width: 270px;
   height: 120px;
   margin-bottom: 30px;
